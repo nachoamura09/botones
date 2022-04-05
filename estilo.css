@@ -1,0 +1,25 @@
+.contenedor{
+    background-color: brown;
+    display: flex;
+    margin: 40px;
+}
+.caja1{
+background-color: black;
+width: 200px;
+height: 200px;
+margin: 40px;
+}
+.caja2{
+ background-color: black;
+width: 200px;
+height: 200px;
+margin: 40px;
+}    
+
+.caja3{
+ background-color: black;
+ width: 200px;
+ height: 200px;
+ margin: 40px;
+
+}
